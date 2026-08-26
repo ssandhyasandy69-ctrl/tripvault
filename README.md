@@ -1,4 +1,3 @@
-# tripvault
 # 🗺️ TripVault
 
 A full-stack MERN travel memory journal — users register, log in, and manage their own
